@@ -14,7 +14,7 @@ A full-stack web application that allows users to add new books, filter existing
 - **Add Book**: Title, Author and ISBN should be filled to add a book
 - **Filter Books**: Based on the criteria, it fetches the related books from the database (used sql LIKE)
 - **Books List**: List the books from the database
-- **Export to CSV | Export to JSON**: Depending on which button is chosen, it will export the current book data in that type and in the same folder
+- **Export to CSV | Export to JSON**: Depending on which button is clicked by, it will export the current book data in that type and in the same folder
 
 ## Technology
 - **Frontend**: HTML, CSS
