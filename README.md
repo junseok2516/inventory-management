@@ -22,3 +22,6 @@ A full-stack web application that allows users to add new books, filter existing
 - **Database**: RDBMS(MySQL)
 
 ## Future Enhancements
+- need user authentication to access db and keep track of their activities and log changes
+- manage user levels so the administrator can only delete books
+- UI should be more responsive for any devices
